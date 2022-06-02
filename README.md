@@ -1,1 +1,2 @@
-# ADS18A.25-Topicos-1
+# ADS18A.25 - Tópicos 1
+## Atividades da disciplina
